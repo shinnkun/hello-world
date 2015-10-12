@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+description for the demonstration of commits
